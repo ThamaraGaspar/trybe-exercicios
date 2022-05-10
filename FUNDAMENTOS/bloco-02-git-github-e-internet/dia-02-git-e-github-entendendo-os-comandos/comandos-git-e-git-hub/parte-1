@@ -1,0 +1,5 @@
+O Git é um sistema de versionamento distribuído (DVCS);
+
+git init (para criar um novo repositório Git);
+
+git clone (para copiar um repositório Git existente para sua máquina e, assim, poder criar branches e Pull Requests).
